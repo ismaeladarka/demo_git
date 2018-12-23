@@ -1,2 +1,3 @@
 # demo_git
-bienvenue dans notre readme
+une demo git qui se passe bien
+modifie depuis gitub
